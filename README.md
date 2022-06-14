@@ -67,4 +67,4 @@ Link to this readme, discussion of this readme
 
 **#meetups**
 
-Link to this readme, discussion of this readme
+Discussion of meetups for Klaviyo Developers
