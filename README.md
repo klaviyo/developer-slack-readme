@@ -41,6 +41,10 @@ This is both our catch-all channel for topics that don’t neatly fit into anoth
 
 Use this channel to introduce yourself/your company to the Klaviyo Developer Slack community. This is the place to do a little self promotion and tell us about all of the interesting things you work on. It is very helpful to have an introduction post so that as you communicate with other members of the community, people can search for this post and understand your background and experience (especially useful when helping debug an issue together)
 
+**#meetups**
+
+Discussion of meetups for Klaviyo Developers
+
 **#product-launches**
 
 When Klaviyo has a new product or feature launch, we will post about it and discuss it in this channel
@@ -48,7 +52,3 @@ When Klaviyo has a new product or feature launch, we will post about it and disc
 **#read-me**
 
 Link to this readme, discussion of this readme
-
-**#meetups**
-
-Discussion of meetups for Klaviyo Developers
