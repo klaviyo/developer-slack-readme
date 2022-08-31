@@ -29,25 +29,13 @@ Example post in this channel:
 
 “Hey I’m currently using V2 People Search ([https://a.klaviyo.com/api/v2/people/search](https://a.klaviyo.com/api/v2/people/search)) and I am not getting a successful response when supplying an email address and valid private-key for a profile that I know exists, will thread the error response”
 
-**#channel-suggestions**
-
-Suggest a topic that you think is popular enough to warrant its own channel.
-
 **#feedback-and-suggestions**
 
-Do you have feedback for making the Klaviyo developer experience better? Improving the Klaviyo product? Something else you think would help us be better? We want to hear it from you.
+Do you have feedback for making the Klaviyo developer experience better, improving slack? Improving the Klaviyo product? Something else you think would help us be better? We want to hear it from you.
 
-**#general-developers-chat**
+**#general-developers-help**
 
 This is both our catch-all channel for topics that don’t neatly fit into another place, and also for general discussion about the work we do. If you want to share the thing you are currently working on, something you did in the past, something generally interesting and topical, this is the channel for less restrictive discussion.
-
-**#general-help**
-
-If you are running into an issue that is not specific to an API or related to the process of integrating a system with Klaviyo, this is the place to ask for help. Depending on the frequency of certain topics, we may create additional channels based on the types of questions that get asked here.
-
-**#integration-help**
-
-If you are trying to integrate with Klaviyo, either to get data into Klaviyo, get data out of Klaviyo, or some combination, this is the channel to discuss how to do that.
 
 **#introduce-yourself**
 
@@ -56,10 +44,6 @@ Use this channel to introduce yourself/your company to the Klaviyo Developer Sla
 **#product-launches**
 
 When Klaviyo has a new product or feature launch, we will post about it and discuss it in this channel
-
-**#random**
-
-This channel is for random articles/discussions. Please avoid anything that could be viewed as controversial, we are fostering an inclusive and welcoming community, this is not the place to argue (you can use the rest of the internet for that).
 
 **#read-me**
 
