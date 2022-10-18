@@ -29,10 +29,6 @@ Example post in this channel:
 
 “Hey I’m currently using V2 People Search ([https://a.klaviyo.com/api/v2/people/search](https://a.klaviyo.com/api/v2/people/search)) and I am not getting a successful response when supplying an email address and valid private-key for a profile that I know exists, will thread the error response”
 
-**#feedback-and-suggestions**
-
-Do you have feedback for making the Klaviyo developer experience better, improving slack? Improving the Klaviyo product? Something else you think would help us be better? We want to hear it from you.
-
 **#general-developers-help**
 
 This is both our catch-all channel for topics that don’t neatly fit into another place, and also for general discussion about the work we do. If you want to share the thing you are currently working on, something you did in the past, something generally interesting and topical, this is the channel for less restrictive discussion.
@@ -40,15 +36,3 @@ This is both our catch-all channel for topics that don’t neatly fit into anoth
 **#introduce-yourself**
 
 Use this channel to introduce yourself/your company to the Klaviyo Developer Slack community. This is the place to do a little self promotion and tell us about all of the interesting things you work on. It is very helpful to have an introduction post so that as you communicate with other members of the community, people can search for this post and understand your background and experience (especially useful when helping debug an issue together)
-
-**#meetups**
-
-Discussion of meetups for Klaviyo Developers
-
-**#product-launches**
-
-When Klaviyo has a new product or feature launch, we will post about it and discuss it in this channel
-
-**#read-me**
-
-Link to this readme, discussion of this readme
